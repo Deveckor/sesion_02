@@ -1,0 +1,27 @@
+.title{
+    color: dimgrey;
+    font-family: sans-serif;
+
+}
+
+.container{
+    display: flex;
+    background-color: #0a0b1d;
+    height: 500px;
+    width: auto;
+    justify-content: center;
+}
+
+.box_1{
+    display: flexbox;
+    background-color: #1a1939;
+    height: 400px;
+    width: auto;
+    justify-content: flex-end;
+
+}
+
+.img_1{
+    opacity: 40%;
+}
+
